@@ -1,1 +1,5 @@
-conflicting text
+   ```
+   <<<<<<< my-resume
+   =======
+   >>>>>>> main
+   ```
